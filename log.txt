@@ -1,0 +1,350 @@
+1719637231795 log.txt
+1719637231795 Command Line Arguments: covid_data.csv properties.csv population.csv log.txt 
+1719637286357 log.txt
+1719637286357 Command Line Arguments: covid_data.csv properties.csv population.csv log.txt 
+1719637335539 log.txt
+1719637335539 Command Line Arguments: covid_data.csv properties.csv population.csv log.txt 
+1719637466611 log.txt
+1719637466612 Command Line Arguments: covid_data.csv properties.csv population.csv log.txt 
+1719637573101 log.txt
+1719637573101 Command Line Arguments: covid_data.csv properties.csv population.csv log.txt 
+1719637742380 log.txt
+1719637742380 Command Line Arguments: covid_data.csv properties.csv population.csv log.txt 
+1719637791748 log.txt
+1719637791749 Command Line Arguments: covid_data.csv properties.csv population.csv log.txt 
+1719637835031 log.txt
+1719637835031 Command Line Arguments: covid_data.csv properties.csv population.csv log.txt 
+1719637931801 log.txt
+1719637931801 Command Line Arguments: covid_data.csv properties.csv population.csv log.txt 
+1719638088232 log.txt
+1719638088232 Command Line Arguments: covid_data.csv properties.csv population.csv log.txt 
+1719638127945 log.txt
+1719638127945 Command Line Arguments: covid_data.csv properties.csv population.csv log.txt 
+1719638181163 log.txt
+1719638181164 Command Line Arguments: covid_data.csv properties.csv population.csv log.txt 
+1719638251914 log.txt
+1719638251914 Command Line Arguments: covid_data.csv properties.csv population.csv log.txt 
+1719638371393 log.txt
+1719638371393 Command Line Arguments: covid_data.csv properties.csv population.csv log.txt 
+1719638596684 log.txt
+1719638596684 Command Line Arguments: covid_data.csv properties.csv population.csv log.txt 
+1719639016324 log.txt
+1719639016324 Command Line Arguments: covid_data.csv properties.csv population.csv log.txt 
+1719639016325 Error reading COVID data: 'CSVCovidData' object has no attribute 'filename'
+1719639016325 Error reading population data: 'PopulationReader' object has no attribute 'filename'
+1719639029202 log.txt
+1719639029202 Command Line Arguments: covid_data.csv properties.csv population.csv log.txt 
+1719639029202 Error reading COVID data: 'CSVCovidData' object has no attribute 'filename'
+1719639029202 Error reading population data: 'PopulationReader' object has no attribute 'filename'
+1719639048955 log.txt
+1719639048956 Command Line Arguments: covid_data.csv properties.csv population.csv log.txt 
+1719639048956 Error reading COVID data: 'CSVCovidData' object has no attribute 'filename'
+1719639048956 Error reading population data: 'PopulationReader' object has no attribute 'filename'
+1719639280811 log.txt
+1719639280811 Command Line Arguments: covid_data.csv properties.csv population.csv log.txt 
+1719639280811 Error reading COVID data: 'CSVCovidData' object has no attribute 'filename'
+1719639280811 Error reading population data: 'PopulationReader' object has no attribute 'filename'
+1719639370847 log.txt
+1719639370847 Command Line Arguments: covid_data.csv properties.csv population.csv log.txt 
+1719639370847 Error reading COVID data: 'CSVCovidData' object has no attribute 'filename'
+1719639370847 Error reading population data: 'PopulationReader' object has no attribute 'filename'
+1719639507905 log.txt
+1719639507905 Command Line Arguments: covid_data.csv properties.csv population.csv log.txt 
+1719639507906 Error reading COVID data: 'CSVCovidData' object has no attribute 'filename'
+1719639507906 Error reading population data: 'PopulationReader' object has no attribute 'filename'
+1719639507906 Error reading properties data: 'PropertiesReader' object has no attribute 'filename'
+1719639521559 log.txt
+1719639521559 Command Line Arguments: covid_data.csv properties.csv population.csv log.txt 
+1719639521559 Error reading COVID data: 'CSVCovidData' object has no attribute 'filename'
+1719639521559 Error reading population data: 'PopulationReader' object has no attribute 'filename'
+1719639521559 Error reading properties data: 'PropertiesReader' object has no attribute 'filename'
+1719639526893 
+1719639719818 log.txt
+1719639719818 Command Line Arguments: covid_data.csv properties.csv population.csv log.txt 
+1719639719818 Error reading COVID data: 'CSVCovidData' object has no attribute 'filename'
+1719639719818 Error reading population data: 'PopulationReader' object has no attribute 'filename'
+1719639719818 Error reading properties data: 'PropertiesReader' object has no attribute 'filename'
+1719639877190 log.txt
+1719639877190 Command Line Arguments: covid_data.csv properties.csv population.csv log.txt 
+1719639877190 Error reading COVID data: 'CSVCovidData' object has no attribute 'filename'
+1719639877190 Error reading population data: 'PopulationReader' object has no attribute 'filename'
+1719639877190 Error reading properties data: 'PropertiesReader' object has no attribute 'filename'
+1719639880805 Total Population: 0
+1719640129927 log.txt
+1719640129927 Command Line Arguments: covid_data.csv properties.csv population.csv log.txt 
+1719640129928 Error reading COVID data: 'CSVCovidData' object has no attribute 'filename'
+1719640129928 Error reading population data: 'PopulationReader' object has no attribute 'filename'
+1719640151593 log.txt
+1719640151593 Command Line Arguments: covid_data.csv properties.csv population.csv log.txt 
+1719640151593 Error reading COVID data: 'CSVCovidData' object has no attribute 'filename'
+1719640151593 Error reading population data: 'PopulationReader' object has no attribute 'filename'
+1719640151593 Error reading properties data: 'PropertiesReader' object has no attribute 'filename'
+1719640157422 Total population calculated: 0
+1719640157422 Total Population: 0
+1719640241955 log.txt
+1719640241955 Command Line Arguments: covid_data.csv properties.csv population.csv log.txt 
+1719640241955 Error reading COVID data: 'CSVCovidData' object has no attribute 'filename'
+1719640241955 Error reading population data: 'PopulationReader' object has no attribute 'filename'
+1719640241955 Error reading properties data: 'PropertiesReader' object has no attribute 'filename'
+1719640245061 Total population calculated: 0
+1719640245062 Total Population: 0
+1719640434165 log.txt
+1719640434165 Command Line Arguments: covid_data.csv properties.csv population.csv log.txt 
+1719640434165 Error reading COVID data: 'CSVCovidData' object has no attribute 'filename'
+1719640434165 Error reading population data: 'PopulationReader' object has no attribute 'filename'
+1719640434165 Error reading properties data: 'PropertiesReader' object has no attribute 'filename'
+1719640437014 Total population calculated: 0
+1719640437014 Total Population: 0
+1719640451026 log.txt
+1719640451026 Command Line Arguments: covid_data.csv properties.csv population.csv log.txt 
+1719640451026 Error reading COVID data: 'CSVCovidData' object has no attribute 'filename'
+1719640451026 Error reading population data: 'PopulationReader' object has no attribute 'filename'
+1719640451026 Error reading properties data: 'PropertiesReader' object has no attribute 'filename'
+1719640454397 Error reading population data: 'PopulationReader' object has no attribute 'filename'
+1719640454397 Error reading properties data: 'PropertiesReader' object has no attribute 'filename'
+1719640454397 Calculating average livable area...
+The average Total Livable Area for ZIP Code, 19103, is 0
+1719640602831 log.txt
+1719640602831 Command Line Arguments: covid_data.csv properties.csv population.csv log.txt 
+1719640602831 Error reading COVID data: 'CSVCovidData' object has no attribute 'filename'
+1719640602831 Error reading population data: 'PopulationReader' object has no attribute 'filename'
+1719640602831 Error reading properties data: 'PropertiesReader' object has no attribute 'filename'
+1719640604730 Total population calculated: 0
+1719640604730 Total Population: 0
+1719640740069 log.txt
+1719640740069 Command Line Arguments: covid_data.csv properties.csv population.csv log.txt 
+1719640740069 Error reading COVID data: 'CSVCovidData' object has no attribute 'filename'
+1719640740069 Error reading population data: 'PopulationReader' object has no attribute 'filename'
+1719640740070 Error reading properties data: 'PropertiesReader' object has no attribute 'filename'
+1719640748117 Total population calculated: 0
+1719640748117 Total Population: 0
+1719640844650 log.txt
+1719640844650 Command Line Arguments: covid_data.csv properties.csv population.csv log.txt 
+1719640844650 Error reading COVID data: 'CSVCovidData' object has no attribute 'filename'
+1719640844650 Error reading population data: 'PopulationReader' object has no attribute 'filename'
+1719640844650 Error reading properties data: 'PropertiesReader' object has no attribute 'filename'
+1719640846838 Total population calculated: 0
+1719640846838 Total Population: 0
+1719640908684 log.txt
+1719640908684 Command Line Arguments: covid_data.csv properties.csv population.csv log.txt 
+1719640908684 Error reading COVID data: 'CSVCovidData' object has no attribute 'filename'
+1719640908684 Error reading population data: 'PopulationReader' object has no attribute 'filename'
+1719640908684 Error reading properties data: 'PropertiesReader' object has no attribute 'filename'
+1719640911149 Total population calculated: 0
+1719640911149 Total Population: 0
+1719641056025 log.txt
+1719641056025 Command Line Arguments: covid_data.csv properties.csv population.csv log.txt 
+1719641056025 Error reading COVID data: 'CSVCovidData' object has no attribute 'filename'
+1719641056025 Error reading population data: 'PopulationReader' object has no attribute 'filename'
+1719641056026 Error reading properties data: 'PropertiesReader' object has no attribute 'filename'
+1719641059426 Total population calculated: 0
+1719641059426 Total Population: 0
+1719641123912 log.txt
+1719641123912 Command Line Arguments: covid_data.csv properties.csv population.csv log.txt 
+1719641123912 Error reading COVID data: 'CSVCovidData' object has no attribute 'filename'
+1719641123912 Error reading population data: 'PopulationReader' object has no attribute 'filename'
+1719641123912 Error reading properties data: 'PropertiesReader' object has no attribute 'filename'
+1719641194108 log.txt
+1719641194108 Command Line Arguments: covid_data.csv properties.csv population.csv log.txt 
+1719641194108 Error reading COVID data: 'CSVCovidData' object has no attribute 'filename'
+1719641194108 Error reading population data: 'PopulationReader' object has no attribute 'filename'
+1719641194108 Error reading properties data: 'PropertiesReader' object has no attribute 'filename'
+1719641196128 Total population calculated: 0
+1719641196128 Total Population: 0
+1719641215230 log.txt
+1719641215230 Command Line Arguments: covid_data.csv properties.csv population.csv log.txt 
+1719641215230 Error reading COVID data: 'CSVCovidData' object has no attribute 'filename'
+1719641215230 Error reading population data: 'PopulationReader' object has no attribute 'filename'
+1719641215230 Error reading properties data: 'PropertiesReader' object has no attribute 'filename'
+1719641217324 Total population calculated: 0
+1719641217324 Total Population: 0
+1719641360401 log.txt
+1719641360401 Command Line Arguments: covid_data.csv properties.csv population.csv log.txt 
+1719641360401 Error reading COVID data: 'CSVCovidData' object has no attribute 'filename'
+1719641360401 Error reading population data: 'PopulationReader' object has no attribute 'filename'
+1719641360401 Error reading properties data: 'PropertiesReader' object has no attribute 'filename'
+1719641362683 Total population calculated: 0
+1719641362683 Total Population: 0
+1719641405436 log.txt
+1719641405436 Command Line Arguments: covid_data.csv properties.csv population.csv log.txt 
+1719641405436 Error reading COVID data: 'CSVCovidData' object has no attribute 'filename'
+1719641405436 Error reading population data: 'PopulationReader' object has no attribute 'filename'
+1719641405436 Error reading properties data: 'PropertiesReader' object has no attribute 'filename'
+1719641407339 Total population calculated: 0
+1719641407339 Total Population: 0
+1719641453042 log.txt
+1719641453042 Command Line Arguments: covid_data.csv properties.csv population.csv log.txt 
+1719641453042 Error reading COVID data: 'CSVCovidData' object has no attribute 'filename'
+1719641453042 Error reading population data: 'PopulationReader' object has no attribute 'filename'
+1719641453042 Error reading properties data: 'PropertiesReader' object has no attribute 'filename'
+1719641514798 log.txt
+1719641514799 Command Line Arguments: covid_data.csv properties.csv population.csv log.txt 
+1719641514799 Error reading COVID data: 'CSVCovidData' object has no attribute 'filename'
+1719641514799 Error reading population data: 'PopulationReader' object has no attribute 'filename'
+1719641514799 Error reading properties data: 'PropertiesReader' object has no attribute 'filename'
+1719641516999 Total population calculated: <edu.upenn.cit594.datamanagement.PopulationReader.PopulationReader object at 0x00000179F52090D0>
+1719641516999 Total Population: <edu.upenn.cit594.datamanagement.PopulationReader.PopulationReader object at 0x00000179F52090D0>
+1719641638708 log.txt
+1719641638708 Command Line Arguments: covid_data.csv properties.csv population.csv log.txt 
+1719641638708 Error reading COVID data: 'CSVCovidData' object has no attribute 'filename'
+1719641638708 Error reading population data: 'PopulationReader' object has no attribute 'filename'
+1719641638708 Error reading properties data: 'PropertiesReader' object has no attribute 'filename'
+1719641640568 Total population calculated: 10
+1719641640568 Total Population: 10
+1719641738860 log.txt
+1719641738860 Command Line Arguments: covid_data.csv properties.csv population.csv log.txt 
+1719641738860 Error reading COVID data: 'CSVCovidData' object has no attribute 'filename'
+1719641738860 Error reading population data: 'PopulationReader' object has no attribute 'filename'
+1719641738860 Error reading properties data: 'PropertiesReader' object has no attribute 'filename'
+1719641747580 log.txt
+1719641747580 Command Line Arguments: covid_data.csv properties.csv population.csv log.txt 
+1719641747581 Error reading COVID data: 'CSVCovidData' object has no attribute 'filename'
+1719641747581 Error reading population data: 'PopulationReader' object has no attribute 'filename'
+1719641747581 Error reading properties data: 'PropertiesReader' object has no attribute 'filename'
+1719641749427 Total population calculated: None
+1719641749428 Total Population: None
+1719641802931 log.txt
+1719641802931 Command Line Arguments: covid_data.csv properties.csv population.csv log.txt 
+1719641802931 Error reading COVID data: 'CSVCovidData' object has no attribute 'filename'
+1719641802931 Error reading population data: 'PopulationReader' object has no attribute 'filename'
+1719641802931 Error reading properties data: 'PropertiesReader' object has no attribute 'filename'
+1719641932920 log.txt
+1719641932920 Command Line Arguments: covid_data.csv properties.csv population.csv log.txt 
+1719641932920 Error reading COVID data: 'CSVCovidData' object has no attribute 'filename'
+1719641932920 Error reading population data: 'PopulationReader' object has no attribute 'filename'
+1719641932920 Error reading properties data: 'PropertiesReader' object has no attribute 'filename'
+1719641935459 Total population calculated: 0
+1719641935459 Total Population: 0
+1719642063924 log.txt
+1719642063924 Command Line Arguments: covid_data.csv properties.csv population.csv log.txt 
+1719642063924 Error reading COVID data: 'CSVCovidData' object has no attribute 'filename'
+1719642063924 Error reading population data: 'PopulationReader' object has no attribute 'filename'
+1719642063924 Error reading properties data: 'PropertiesReader' object has no attribute 'filename'
+1719642065679 Total Population: 0
+1719642088128 log.txt
+1719642088128 Command Line Arguments: covid_data.csv properties.csv population.csv log.txt 
+1719642088128 Error reading COVID data: 'CSVCovidData' object has no attribute 'filename'
+1719642088128 Error reading population data: 'PopulationReader' object has no attribute 'filename'
+1719642088128 Error reading properties data: 'PropertiesReader' object has no attribute 'filename'
+1719642090089 Total population calculated: 0
+1719642090089 Total Population: 0
+1719642097642 log.txt
+1719642097642 Command Line Arguments: covid_data.csv properties.csv population.csv log.txt 
+1719642097642 Error reading COVID data: 'CSVCovidData' object has no attribute 'filename'
+1719642097642 Error reading population data: 'PopulationReader' object has no attribute 'filename'
+1719642097642 Error reading properties data: 'PropertiesReader' object has no attribute 'filename'
+1719642099271 Invalid option. Please enter a number between 0 and 7.
+1719642103865 log.txt
+1719642103865 Command Line Arguments: covid_data.csv properties.csv population.csv log.txt 
+1719642103865 Error reading COVID data: 'CSVCovidData' object has no attribute 'filename'
+1719642103865 Error reading population data: 'PopulationReader' object has no attribute 'filename'
+1719642103865 Error reading properties data: 'PropertiesReader' object has no attribute 'filename'
+1719642105515 Total population calculated: 1020
+1719642105515 Total Population: 1020
+1719642205710 log.txt
+1719642205710 Command Line Arguments: covid_data.csv properties.csv population.csv log.txt 
+1719642205710 Error reading COVID data: 'CSVCovidData' object has no attribute 'filename'
+1719642205710 Error reading population data: 'PopulationReader' object has no attribute 'filename'
+1719642205710 Error reading properties data: 'PropertiesReader' object has no attribute 'filename'
+1719642281247 log.txt
+1719642281247 Command Line Arguments: covid_data.csv properties.csv population.csv log.txt 
+1719642281247 Error reading COVID data: 'CSVCovidData' object has no attribute 'filename'
+1719642281247 Error reading population data: 'PopulationReader' object has no attribute 'filename'
+1719642281247 Error reading properties data: 'PropertiesReader' object has no attribute 'filename'
+1719642351984 log.txt
+1719642351984 Command Line Arguments: covid_data.csv properties.csv population.csv log.txt 
+1719642351984 Error reading COVID data: 'CSVCovidData' object has no attribute 'filename'
+1719642351984 Error reading population data: 'PopulationReader' object has no attribute 'filename'
+1719642351984 Error reading properties data: 'PropertiesReader' object has no attribute 'filename'
+1719642354024 Total population calculated: 0
+1719642354024 Total Population: 0
+1719642412553 log.txt
+1719642412553 Command Line Arguments: covid_data.csv properties.csv population.csv log.txt 
+1719642412553 Error reading COVID data: 'CSVCovidData' object has no attribute 'filename'
+1719642412553 Error reading population data: 'PopulationReader' object has no attribute 'filename'
+1719642412553 Error reading properties data: 'PropertiesReader' object has no attribute 'filename'
+1719642414562 Total Population: 0
+1719642995662 log.txt
+1719642995662 Command Line Arguments: covid_data.csv properties.csv population.csv log.txt 
+1719642995662 Error reading COVID data: 'CSVCovidData' object has no attribute 'filename'
+1719642995662 Error reading population data: 'PopulationReader' object has no attribute 'filename'
+1719642995663 Error reading properties data: 'PropertiesReader' object has no attribute 'filename'
+1719642998340 Total Population: 0
+1719643082213 log.txt
+1719643082213 Command Line Arguments: covid_data.csv properties.csv population.csv log.txt 
+1719643082213 Error reading COVID data: 'CSVCovidData' object has no attribute 'filename'
+1719643082213 Error reading population data: 'PopulationReader' object has no attribute 'filename'
+1719643082213 Error reading properties data: 'PropertiesReader' object has no attribute 'filename'
+1719643085149 Total Population: 0
+1719643220355 log.txt
+1719643220355 Command Line Arguments: covid_data.csv properties.csv population.csv log.txt 
+1719643220355 Error reading COVID data: 'CSVCovidData' object has no attribute 'filename'
+1719643220356 Error reading population data: 'PopulationReader' object has no attribute 'filename'
+1719643220356 Error reading properties data: 'PropertiesReader' object has no attribute 'filename'
+1719643222496 Total Population: 0
+1719643277473 log.txt
+1719643277473 Command Line Arguments: covid_data.csv properties.csv population.csv log.txt 
+1719643277473 Error reading COVID data: 'CSVCovidData' object has no attribute 'filename'
+1719643277473 Error reading population data: 'PopulationReader' object has no attribute 'filename'
+1719643277473 Error reading properties data: 'PropertiesReader' object has no attribute 'filename'
+1719643281090 Total Population: 0
+1719643337554 log.txt
+1719643337554 Command Line Arguments: covid_data.csv properties.csv population.csv log.txt 
+1719643337555 Error reading COVID data: 'CSVCovidData' object has no attribute 'filename'
+1719643337555 Error reading population data: 'PopulationReader' object has no attribute 'filename'
+1719643337555 Error reading properties data: 'PropertiesReader' object has no attribute 'filename'
+1719643345781 Total Population: 0
+1719643431120 log.txt
+1719643431120 Command Line Arguments: covid_data.csv properties.csv population.csv log.txt 
+1719643431120 Error reading COVID data: 'CSVCovidData' object has no attribute 'filename'
+1719643431120 Error reading population data: 'PopulationReader' object has no attribute 'filename'
+1719643431120 Error reading properties data: 'PropertiesReader' object has no attribute 'filename'
+1719643440776 Total Population: 0
+1719644135884 log.txt
+1719644135884 Command Line Arguments: covid_data.csv properties.csv population.csv log.txt 
+1719644135884 Error reading COVID data: 'CSVCovidData' object has no attribute 'filename'
+1719644135884 Error reading population data: 'PopulationReader' object has no attribute 'filename'
+1719644135884 Error reading properties data: 'PropertiesReader' object has no attribute 'filename'
+1719644140541 Total Population: 0
+1719644192029 log.txt
+1719644192029 Command Line Arguments: covid_data.csv properties.csv population.csv log.txt 
+1719644192029 Error reading COVID data: 'CSVCovidData' object has no attribute 'filename'
+1719644192029 Error reading population data: 'PopulationReader' object has no attribute 'filename'
+1719644192029 Error reading properties data: 'PropertiesReader' object has no attribute 'filename'
+1719644194214 Total Population: 0
+1719644213537 log.txt
+1719644213537 Command Line Arguments: covid_data.csv properties.csv population.csv log.txt 
+1719644213537 Error reading COVID data: 'CSVCovidData' object has no attribute 'filename'
+1719644213537 Error reading population data: 'PopulationReader' object has no attribute 'filename'
+1719644213537 Error reading properties data: 'PropertiesReader' object has no attribute 'filename'
+1719644215321 Total Population: 0
+1719644247373 log.txt
+1719644247373 Command Line Arguments: covid_data.csv properties.csv population.csv log.txt 
+1719644247373 Error reading COVID data: 'CSVCovidData' object has no attribute 'filename'
+1719644247373 Error reading population data: 'PopulationReader' object has no attribute 'filename'
+1719644247373 Error reading properties data: 'PropertiesReader' object has no attribute 'filename'
+1719644249613 Total Population: 0
+1719798219797 log.txt
+1719798219797 Command Line Arguments: covid_data.csv properties.csv population.csv log.txt 
+1719798219797 Error reading COVID data: 'CSVCovidData' object has no attribute 'filename'
+1719798219797 Error reading population data: 'PopulationReader' object has no attribute 'filename'
+1719798219797 Error reading properties data: 'PropertiesReader' object has no attribute 'filename'
+1719798347004 log.txt
+1719798347004 Command Line Arguments: covid_data.csv properties.csv population.csv log.txt 
+1719798347027 Error reading COVID data: 'CSVCovidData' object has no attribute 'filename'
+1719798347027 Error reading population data: 'PopulationReader' object has no attribute 'filename'
+1719798347027 Error reading properties data: 'PropertiesReader' object has no attribute 'filename'
+1719798358876 Total population calculated: 0
+1719798358876 Total Population: 0
+1719799776594 log.txt
+1719799776594 Command Line Arguments: covid_data.csv properties.csv population.csv log.txt 
+1719799776594 Error reading COVID data: 'CSVCovidData' object has no attribute 'filename'
+1719799776594 Error reading population data: 'PopulationReader' object has no attribute 'filename'
+1719799776594 Error reading properties data: 'PropertiesReader' object has no attribute 'filename'
+1719799778926 Total population calculated: 0
+1719799778926 Total Population: 0
+1719799878233 log.txt
+1719799878233 Command Line Arguments: covid_data.csv properties.csv population.csv log.txt 
+1719799878233 Error reading COVID data: 'CSVCovidData' object has no attribute 'filename'
+1719799878233 Error reading population data: 'PopulationReader' object has no attribute 'filename'
+1719799878233 Error reading properties data: 'PropertiesReader' object has no attribute 'filename'
